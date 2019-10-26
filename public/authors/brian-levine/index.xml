@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brian Levine | Alexandra Decker</title>
+    <link>/authors/brian-levine/</link>
+      <atom:link href="/authors/brian-levine/index.xml" rel="self" type="application/rss+xml" />
+    <description>Brian Levine</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Brian Levine</title>
+      <link>/authors/brian-levine/</link>
+    </image>
+    
+    <item>
+      <title>Impaired recent, but preserved remote, autobiographical memory in pediatric brain tumor patients (2018)</title>
+      <link>/publication/recent-remote-paper/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/recent-remote-paper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

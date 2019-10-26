@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jovanka Skocic | Alexandra Decker</title>
+    <link>/authors/jovanka-skocic/</link>
+      <atom:link href="/authors/jovanka-skocic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jovanka Skocic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Jovanka Skocic</title>
+      <link>/authors/jovanka-skocic/</link>
+    </image>
+    
+    <item>
+      <title>Impaired recent, but preserved remote, autobiographical memory in pediatric brain tumor patients (2018)</title>
+      <link>/publication/recent-remote-paper/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/recent-remote-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smaller hippocampal subfield volumes predict verbal associative memory in pediatric brain tumor survivors (2017)</title>
+      <link>/publication/subfield-paper/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/subfield-paper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

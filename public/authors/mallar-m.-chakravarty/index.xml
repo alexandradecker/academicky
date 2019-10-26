@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mallar M. Chakravarty | Alexandra Decker</title>
+    <link>/authors/mallar-m.-chakravarty/</link>
+      <atom:link href="/authors/mallar-m.-chakravarty/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mallar M. Chakravarty</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Mallar M. Chakravarty</title>
+      <link>/authors/mallar-m.-chakravarty/</link>
+    </image>
+    
+    <item>
+      <title>Smaller hippocampal subfield volumes predict verbal associative memory in pediatric brain tumor survivors</title>
+      <link>/publication/subfield-paper/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/subfield-paper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

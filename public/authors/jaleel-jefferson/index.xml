@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jaleel Jefferson | Alexandra Decker</title>
+    <link>/authors/jaleel-jefferson/</link>
+      <atom:link href="/authors/jaleel-jefferson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jaleel Jefferson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Jaleel Jefferson</title>
+      <link>/authors/jaleel-jefferson/</link>
+    </image>
+    
+    <item>
+      <title>Development of short-range white matter in healthy children and adolescents (2018)</title>
+      <link>/publication/u-fibres-paper/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/u-fibres-paper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
