@@ -5,7 +5,7 @@ bio: My research focuses on understanding fluctuations in sustained attention an
 
 education:
   courses:
-  - course: PhD in Psychology sdfadsfsjflds;ljfkl;dasjfklds
+  - course: PhD in Psychology
     institution: University of Toronto
     year: 2016-present
   - course: MA in Psychology
