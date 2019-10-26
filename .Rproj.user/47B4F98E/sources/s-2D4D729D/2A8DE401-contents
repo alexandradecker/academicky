@@ -1,7 +1,7 @@
 ---
 authors:
 - alexandra-decker
-bio: My research focuses on understanding fluctuations in sustained attention and their influence on different learning systems. 
+bio: My research focuses on understanding fluctuations in sustained attention and their influence on different learning systems. hfghgf
 
 education:
   courses:
