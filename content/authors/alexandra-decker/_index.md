@@ -1,11 +1,11 @@
 ---
 authors:
 - alexandra-decker
-bio: My research focuses on understanding fluctuations in sustained attention and their influence on different learning systems. hfghgf
+bio: My research focuses on understanding fluctuations in sustained attention and their influence on different learning systems. 
 
 education:
   courses:
-  - course: PhD in Psychology
+  - course: PhD in Psychology sdfadsfsjflds;ljfkl;dasjfklds
     institution: University of Toronto
     year: 2016-present
   - course: MA in Psychology
