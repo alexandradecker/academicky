@@ -44,7 +44,7 @@ user_groups:
 
 
 
-I'm a PhD Candidate at the University of Toronto working with <a href="http://duncanlab.org/index.php/people/">Katherine Duncan</a> and <a href="https://finnlandlab.org/">Amy Finn</a>. I'm curious about how and why paying attention in pursuit of our short- and long-term goals is challenging, and how different attentional states affect learning and memory. I'm also curious about how cognitive processes involved in attention and memory change with age, experience, and socioeconomic status. Get in touch if you'd like to chat about ideas or collaborate! Find more details about my research by looking through my site, or {{% staticref "files/cv.pdf" %}} downloading my CV{{% /staticref %}}. Check out my <a href = "https://scholar.google.com/citations?hl=en&user=T5Xw7kUAAAAJ&view_op=list_works&sortby=pubdate" >google scholar</a> profile for a list of my publications.
+I'm a PhD Candidate at the University of Toronto working with <a href="http://duncanlab.org/index.php/people/">Katherine Duncan</a> and <a href="https://finnlandlab.org/">Amy Finn</a>. I’m curious about the brain mechanisms that support attention and learning as well as how attentional and motivational states influence learning. I’m also interested in how learning and attention mechanisms differ as a result of brain structure, age, experience, and environmental contexts. Get in touch if you'd like to chat about ideas or collaborate! Find more details about my research by looking through my site, or {{% staticref "files/cv.pdf" %}} downloading my CV{{% /staticref %}}. Check out my <a href = "https://scholar.google.com/citations?hl=en&user=T5Xw7kUAAAAJ&view_op=list_works&sortby=pubdate" >google scholar</a> profile for a list of my publications.
 
 
 
