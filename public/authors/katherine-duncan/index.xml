@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Katherine Duncan* | Alexandra Decker</title>
+    <link>/authors/katherine-duncan/</link>
+      <atom:link href="/authors/katherine-duncan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Katherine Duncan*</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 24 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Katherine Duncan*</title>
+      <link>/authors/katherine-duncan/</link>
+    </image>
+    
+    <item>
+      <title>Errors lead to transient impairments in memory formation (2020)</title>
+      <link>/publication/mistakes-learning-paper/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/mistakes-learning-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Children’s family income is associated with cognitive function and volume of anterior not posterior hippocampus (2020)</title>
+      <link>/publication/income-cognitive-dev-paper/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/income-cognitive-dev-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acetylcholine and the complex interdependence of memory and attention (2020)</title>
+      <link>/publication/acetylcholine-attention-memory-paper/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/acetylcholine-attention-memory-paper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

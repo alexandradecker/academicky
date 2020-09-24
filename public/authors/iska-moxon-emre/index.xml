@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iska Moxon-Emre | Alexandra Decker</title>
+    <link>/authors/iska-moxon-emre/</link>
+      <atom:link href="/authors/iska-moxon-emre/index.xml" rel="self" type="application/rss+xml" />
+    <description>Iska Moxon-Emre</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 28 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Iska Moxon-Emre</title>
+      <link>/authors/iska-moxon-emre/</link>
+    </image>
+    
+    <item>
+      <title>Medulloblastoma has a global impact on health related quality of life - Findings from an international cohort (2020)</title>
+      <link>/publication/medulloblastoma_hrql-paper/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/medulloblastoma_hrql-paper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

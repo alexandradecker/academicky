@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 24 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,10 +15,202 @@
     <item>
       <title></title>
       <link>/authors/alexandra-decker/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
       <guid>/authors/alexandra-decker/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a PhD Candidate at the University of Toronto working with &lt;a href=&#34;http://duncanlab.org/index.php/people/&#34;&gt;Katherine Duncan&lt;/a&gt; and &lt;a href=&#34;https://finnlandlab.org/&#34;&gt;Amy Finn&lt;/a&gt;. I&amp;rsquo;m curious about how and why paying attention in pursuit of our short- and long-term goals is challenging, and how different attentional states affect learning and memory. I&amp;rsquo;m also curious about how cognitive processes involved in attention and memory change with age, experience, and socioeconomic status. Get in touch if you&amp;rsquo;d like to chat about ideas or collaborate! Find more details about my research by looking through my site, or &lt;a href=&#34;/files/cv.pdf&#34;&gt; downloading my CV&lt;/a&gt;. Check out my &lt;a href = &#34;https://scholar.google.com/citations?hl=en&amp;user=T5Xw7kUAAAAJ&amp;view_op=list_works&amp;sortby=pubdate&#34; &gt;google scholar&lt;/a&gt; profile for a list of my publications.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Amy Finn*</title>
+      <link>/authors/amy-finn/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/amy-finn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Katherine Duncan*</title>
+      <link>/authors/katherine-duncan/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/katherine-duncan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Claudia C. Faria</title>
+      <link>/authors/claudia-c.-faria/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/claudia-c.-faria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cynthia B. de Medeiros</title>
+      <link>/authors/cynthia-b.-de-medeiros/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/cynthia-b.-de-medeiros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Malkin</title>
+      <link>/authors/david-malkin/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/david-malkin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Donald J. Mabbott</title>
+      <link>/authors/donald-j.-mabbott/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/donald-j.-mabbott/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eric Bouffet</title>
+      <link>/authors/eric-bouffet/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/eric-bouffet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iska Moxon-Emre</title>
+      <link>/authors/iska-moxon-emre/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/iska-moxon-emre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeffrey Leonard</title>
+      <link>/authors/jeffrey-leonard/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/jeffrey-leonard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jennifer Chan</title>
+      <link>/authors/jennifer-chan/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/jennifer-chan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Johan M. Kros</title>
+      <link>/authors/johan-m.-kros/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/johan-m.-kros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Josh Rubin</title>
+      <link>/authors/josh-rubin/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/josh-rubin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laura Janzen</title>
+      <link>/authors/laura-janzen/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/laura-janzen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lucie Lafay-Cousin</title>
+      <link>/authors/lucie-lafay-cousin/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/lucie-lafay-cousin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael D. Taylor</title>
+      <link>/authors/michael-d.-taylor/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/michael-d.-taylor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nadia Scantlebury</title>
+      <link>/authors/nadia-scantlebury/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/nadia-scantlebury/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nalin Gupta</title>
+      <link>/authors/nalin-gupta/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/nalin-gupta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicole Law</title>
+      <link>/authors/nicole-law/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/nicole-law/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rajeev Vibhakar</title>
+      <link>/authors/rajeev-vibhakar/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/rajeev-vibhakar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seung-Ki Kim</title>
+      <link>/authors/seung-ki-kim/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/seung-ki-kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shin Jung</title>
+      <link>/authors/shin-jung/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/shin-jung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toshihiro Kumabe</title>
+      <link>/authors/toshihiro-kumabe/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/toshihiro-kumabe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vijay Ramaswamy</title>
+      <link>/authors/vijay-ramaswamy/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/vijay-ramaswamy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>William Weiss</title>
+      <link>/authors/william-weiss/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/william-weiss/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -50,22 +242,6 @@
       <link>/authors/cynthia-de-medieros/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       <guid>/authors/cynthia-de-medieros/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Donald J. Mabbott</title>
-      <link>/authors/donald-j.-mabbott/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/donald-j.-mabbott/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Eric Bouffet</title>
-      <link>/authors/eric-bouffet/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/eric-bouffet/</guid>
       <description></description>
     </item>
     
@@ -162,14 +338,6 @@
       <link>/authors/kamila-szulc/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>/authors/kamila-szulc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nadia Scantlebury</title>
-      <link>/authors/nadia-scantlebury/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/nadia-scantlebury/</guid>
       <description></description>
     </item>
     

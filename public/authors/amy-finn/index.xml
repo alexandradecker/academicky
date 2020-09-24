@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amy Finn* | Alexandra Decker</title>
+    <link>/authors/amy-finn/</link>
+      <atom:link href="/authors/amy-finn/index.xml" rel="self" type="application/rss+xml" />
+    <description>Amy Finn*</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 24 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Amy Finn*</title>
+      <link>/authors/amy-finn/</link>
+    </image>
+    
+    <item>
+      <title>Errors lead to transient impairments in memory formation (2020)</title>
+      <link>/publication/mistakes-learning-paper/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/mistakes-learning-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Children’s family income is associated with cognitive function and volume of anterior not posterior hippocampus (2020)</title>
+      <link>/publication/income-cognitive-dev-paper/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/income-cognitive-dev-paper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
