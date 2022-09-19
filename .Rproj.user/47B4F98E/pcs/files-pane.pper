@@ -1,9 +1,9 @@
 {
-    "path" : "~/Dropbox/Personal/Personal_website/academicky/content/home",
-    "sortOrder" : [
+    "path": "~/Dropbox/Personal/Personal_website/academicky/content/home",
+    "sortOrder": [
         {
-            "ascending" : true,
-            "columnIndex" : 2
+            "ascending": true,
+            "columnIndex": 2
         }
     ]
 }

@@ -44,7 +44,7 @@ user_groups:
 
 Hi there! I'm Lexi, a postdoc at the Massachusetts Institute of Technology working with John Gabrieli. I research how we attend, learn and remember, and am particularly interested in dynamic changes in these aspects of cognition across time. Why is it sometimes so hard to attend, learn and remember? Why is it something so easy? And how can we increase the frequency of good cognitive states? By deciphering the factors that modulate cognitive processes in each moment, I aim to develop methods to improve cognition in both healthy and clinical samples. 
 
-Get in touch if you'd like to chat about ideas or collaborate! Find more details about my research by looking through my site, or {{% staticref "files/cv.pdf" %}} downloading my CV{{% /staticref %}}. Check out my <a href = "https://scholar.google.com/citations?hl=en&user=T5Xw7kUAAAAJ&view_op=list_works&sortby=pubdate" >google scholar</a> profile for a list of my publications.
+Get in touch if you'd like to chat about ideas or collaborate! Find more details about my research by looking through my site, or {{% staticref "files/CV_updated.pdf" %}} downloading my CV{{% /staticref %}}. Check out my <a href = "https://scholar.google.com/citations?hl=en&user=T5Xw7kUAAAAJ&view_op=list_works&sortby=pubdate" >google scholar</a> profile for a list of my publications.
 
 
 
