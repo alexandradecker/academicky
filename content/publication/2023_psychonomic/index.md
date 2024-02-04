@@ -3,6 +3,7 @@ abstract: Why do children’s memories often differ from adults’ after the sam
 
 authors:
 - Alexandra Decker
+- Michael Dubois
 - Katherine Duncan
 - Amy Finn
 
