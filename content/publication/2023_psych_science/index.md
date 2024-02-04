@@ -26,7 +26,7 @@ tags:
 - Publications
 title: Fluctuations in Sustained Attention Explain Moment-to-Moment Shifts in Children’s Memory Formation (2023)
 
-url_pdf: 
+url_pdf: "Decker_2023_Psych_Science.pdf"
 
 
 ---
