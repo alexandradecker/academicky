@@ -1,5 +1,5 @@
 ---
-abstract: Why do children’s memories often differ from adults’ after the same experience? Whereas prior work has focused on immature memory mechanisms to answer this question, here we focus on the costs of attentional lapses for learning. We track sustained attention and memory formation across time in 7- to 10-year-old children and adults (n = 120) to show that sustained attention causally shapes the fate of children’s individual memories. Moreover, children’s attention lapsed twice as frequently as adults’, and attention fluctuated with memory formation more closely in children than adults. In addition, although attentional lapses impaired memory for expected events in both childre and adults, they impaired memory for unexpected events in children only. Our work reveals that sustained attention is an important cognitive factor that controls access to children’s long-term memory stores. Our work also raises the possibility that developmental differences in cognitive performance stem from developmental shifts in the ability to sustain attention.
+abstract: Attentional lapses have been found to impair everything from basic perception to learning and memory. Yet, despite the well documented costs of lapses on cognition, recent work suggests that lapses might unexpectedly confer some benefits. One potential benefit is that lapses broaden our learning to integrate seemingly irrelevant content that could later prove useful–a benefit that prior research focusing only on goal- relevant memory would miss. Here, we measure how fluctuations in sustained attention influence the learning of seemingly goal-irrelevant content that competes for attention with target content. Participants completed a correlated flanker task in which they categorized central targets (letters or numbers) while ignoring peripheral flanking symbols that shared hidden probabilistic relationships with the targets. We found that across participants, higher rates of attentional lapses correlated with greater learning of the target-flanker relationships. Moreover, within participants, learning was more evident during attentional lapses. These findings address long-standing theoretical debates and reveal a benefit of attentional lapses: they expand the scope of learning and decisions beyond the strictly relevant
 
 authors:
 - Alexandra Decker
@@ -17,15 +17,15 @@ image:
 
 projects:
 - internal-project
-publication: In *Psychological Science*
-publication_short: In *Psych Science*
+publication: In *Psychonomic Bulletin & Review*
+publication_short: In *Psych Bull Rev*
 publication_types:
 - "2"
 publishDate: "2023-11-28T00:00:00Z"
 summary: 
 tags:
 - Publications
-title: Pay Attention and you might miss it. greater learning during attentional lapses (2023)
+title: Pay Attention and you might miss it Greater learning during attentional lapses (2023)
 
 url_pdf: 
 
