@@ -27,7 +27,7 @@ tags:
 - Publications
 title: Pay Attention and you might miss it Greater learning during attentional lapses (2023)
 
-url_pdf: "2023_Decker_psychonomic.pdf"
+url_pdf: 
 
 
 ---

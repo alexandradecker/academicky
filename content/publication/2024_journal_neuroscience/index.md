@@ -34,7 +34,6 @@ tags:
 - Publications
 title: Striatal and Behavioral Responses to Reward Vary by Socioeconomic Status in Adolescents (2024)
 
-url_pdf: "Decker_2024.pdf"
-
+url_pdf:
 
 ---
