@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steven Meislder | Alexandra Decker</title>
+    <link>/authors/steven-meislder/</link>
+      <atom:link href="/authors/steven-meislder/index.xml" rel="self" type="application/rss+xml" />
+    <description>Steven Meislder</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 28 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Steven Meislder</title>
+      <link>/authors/steven-meislder/</link>
+    </image>
+    
+    <item>
+      <title>Striatal and Behavioral Responses to Reward Vary by Socioeconomic Status in Adolescents (2024)</title>
+      <link>/publication/2024_journal_neuroscience/</link>
+      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/2024_journal_neuroscience/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

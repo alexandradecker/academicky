@@ -2,8 +2,8 @@
     "path": "~/Dropbox/Personal/Personal_website/academicky/content/home",
     "sortOrder": [
         {
-            "ascending": true,
-            "columnIndex": 2
+            "columnIndex": 2,
+            "ascending": true
         }
     ]
 }

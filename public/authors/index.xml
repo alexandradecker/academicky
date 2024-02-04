@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 24 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 28 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,26 +15,106 @@
     <item>
       <title></title>
       <link>/authors/alexandra-decker/</link>
-      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
       <guid>/authors/alexandra-decker/</guid>
-      <description>&lt;p&gt;Hi there! I&amp;rsquo;m Lexi, a postdoc at the Massachusetts Institute of Technology working with John Gabrieli. I research how we attend, learn and remember, and am particularly interested in dynamic changes in these aspects of cognition across time. Why is it sometimes so hard to attend, learn and remember? Why is it something so easy? And how can we increase the frequency of good cognitive states? By deciphering the factors that modulate cognitive processes in each moment, I aim to develop methods to improve cognition in both healthy and clinical samples.&lt;/p&gt;
+      <description>&lt;p&gt;Hi there! I&amp;rsquo;m Lexi, a postdoc at MIT. I research dynamic changes in attention, learning, and memory across time. I want to understand why it is sometimes hard and other times easy to attend, learn, and remember. I&amp;rsquo;m interesting in understanding the factors that influence cognitive states. By deciphering the factors that modulate cognitive processes in each moment, I aim to develop methods to improve cognition in both healthy and clinical samples.&lt;/p&gt;
 
 &lt;p&gt;Get in touch if you&amp;rsquo;d like to chat about ideas or collaborate! Find more details about my research by looking through my site, or &lt;a href=&#34;/files/CV_updated.pdf&#34;&gt; downloading my CV&lt;/a&gt;. Check out my &lt;a href = &#34;https://scholar.google.com/citations?hl=en&amp;user=T5Xw7kUAAAAJ&amp;view_op=list_works&amp;sortby=pubdate&#34; &gt;google scholar&lt;/a&gt; profile for a list of my publications.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Amy Finn*</title>
+      <title>Andrea Imhof</title>
+      <link>/authors/andrea-imhof/</link>
+      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/andrea-imhof/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clemens Bauer</title>
+      <link>/authors/clemens-bauer/</link>
+      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/clemens-bauer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hannah Grotzinger</title>
+      <link>/authors/hannah-grotzinger/</link>
+      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/hannah-grotzinger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John Gabrieli</title>
+      <link>/authors/john-gabrieli/</link>
+      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/john-gabrieli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julia Leonard</title>
+      <link>/authors/julia-leonard/</link>
+      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/julia-leonard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Melissa Giebler</title>
+      <link>/authors/melissa-giebler/</link>
+      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/melissa-giebler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicholas Hubbard</title>
+      <link>/authors/nicholas-hubbard/</link>
+      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/nicholas-hubbard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rachel Romeo</title>
+      <link>/authors/rachel-romeo/</link>
+      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/rachel-romeo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steven Meislder</title>
+      <link>/authors/steven-meislder/</link>
+      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/steven-meislder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yesi Camacho Torres</title>
+      <link>/authors/yesi-camacho-torres/</link>
+      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/yesi-camacho-torres/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amy Finn</title>
       <link>/authors/amy-finn/</link>
-      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
       <guid>/authors/amy-finn/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Katherine Duncan*</title>
+      <title>Katherine Duncan</title>
       <link>/authors/katherine-duncan/</link>
-      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
       <guid>/authors/katherine-duncan/</guid>
       <description></description>
     </item>
