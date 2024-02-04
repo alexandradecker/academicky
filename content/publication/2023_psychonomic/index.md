@@ -25,7 +25,7 @@ publishDate: "2023-11-28T00:00:00Z"
 summary: 
 tags:
 - Publications
-title: Fluctuations in Sustained Attention Explain Moment-to-Moment Shifts in Children’s Memory Formation (2023)
+title: Pay Attention and you might miss it. greater learning during attentional lapses (2023)
 
 url_pdf: 
 
