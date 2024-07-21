@@ -1,7 +1,7 @@
 ---
 authors:
 - alexandra-decker
-bio: I research why attention fluctuates and how these fluctuations influence different learning and memory systems, such as probabilistic learning and episodic memory.
+bio: Developmental Cognitive Neuroscientists studying how brain and cognitive development shape learning in typical and atypical development. 
 
 education:
   courses:
@@ -42,9 +42,9 @@ user_groups:
 - Visitors
 ---
 
-Hi there! I'm Lexi, a postdoc at MIT. I research dynamic changes in attention, learning, and memory across time. I want to understand why it is sometimes hard and other times easy to attend, learn, and remember. I'm interesting in understanding the factors that influence cognitive states. By deciphering the factors that modulate cognitive processes in each moment, I aim to develop methods to improve cognition in both healthy and clinical samples. 
+I'm a developmental cognitive neuroscientist. I'm currently a postdoctoral fellow at the Massachusetts Institute of Technology in the Department of Brain and Cognitive Sciences. I completed my PhD in Psychology at the University of Toronto in 2022. My research uses a combination of behavioral, eye-tracking, and neuroimaging methods, computational modelling and advanced statistics to examine how the brain changes over the course of development and how these changes influence learning in children with and without neurodevelopmental disorders. I'm particularly interested in short- and long-term brain plasticity in response to learning, and environmental adversity or enrichment. When I'm not working, I love drinking matcha, going on runs and reading philosophy. Reach out if you'd like to chat about ideas or collaborate!
 
-Get in touch if you'd like to chat about ideas or collaborate! Find more details about my research by looking through my site, or {{% staticref "files/cv.pdf" %}} downloading my CV{{% /staticref %}}. Check out my <a href = "https://scholar.google.com/citations?hl=en&user=T5Xw7kUAAAAJ&view_op=list_works&sortby=pubdate" >google scholar</a> profile for a list of my publications.
+Feel free to check out more of my work by looking through my site, or {{% staticref "files/cv.pdf" %}} downloading my CV{{% /staticref %}}. Check out my <a href = "https://scholar.google.com/citations?hl=en&user=T5Xw7kUAAAAJ&view_op=list_works&sortby=pubdate" >google scholar</a> profile for a list of my publications.
 
 
 
