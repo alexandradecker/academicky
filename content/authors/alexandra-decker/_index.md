@@ -1,7 +1,7 @@
 ---
 authors:
 - alexandra-decker
-bio: Developmental Cognitive Neuroscientists studying how brain and cognitive development shape learning in typical and atypical development. 
+bio: Developmental Cognitive Neuroscientist studying how brain and cognitive development shape learning in typical and atypical development. 
 
 education:
   courses:
