@@ -11,7 +11,7 @@
     <p class="pub-abstract">{{ .Params.abstract | markdownify }}</p>
     {{ end }}
 
-    {{ if and (isset .Params "publication_types") (isArray .Params.publication_types) (gt (len .Params.publication_types) 0) (ne (index .Params.publication_types 0) "0") }}
+    {{ if and (isset .Params "publication_types") (gt (len .Params.publication_types) 0) (ne (index .Params.publication_types 0) "0") }}
     <div class="row">
       <div class="col-md-1"></div>
       <div class="col-md-10">
@@ -43,15 +43,4 @@
       </div>
       <div class="col-md-1"></div>
     </div>
-    <div class="d-md-none space-below"></div>
-    {{ end }}
-
-    <div class="space-below"></div>
-
-    <div class="article-style">{{ .Content }}</div>
-
-    {{ partial "page_footer" . }}
-
-  </div>
-</div>
-{{- end -}}
+    <div class="d-md
