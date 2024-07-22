@@ -2,6 +2,6 @@
 header:
   caption: ""
   image: ""
-title: Selected Publications (for a full list, check out my google scholar!)
+title: Selected Publications (see my google scholar for a full list)
 view: 10
 ---

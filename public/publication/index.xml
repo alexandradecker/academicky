@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Selected Publications (for a full list, check out my google scholar!) | Alexandra Decker</title>
+    <title>Selected Publications (see my google scholar for a full list) | Alexandra Decker</title>
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Selected Publications (for a full list, check out my google scholar!)</description>
+    <description>Selected Publications (see my google scholar for a full list)</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 28 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Selected Publications (for a full list, check out my google scholar!)</title>
+      <title>Selected Publications (see my google scholar for a full list)</title>
       <link>/publication/</link>
     </image>
     
