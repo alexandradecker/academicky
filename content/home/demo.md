@@ -5,7 +5,7 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Deactivate this widget
+active = false  # Deactivate this widget
 weight = 15  # Order that this section will appear.
 
 title = " "
