@@ -22,7 +22,7 @@ name: Alexandra Decker
 organizations:
 - name: " "
   url: ""
-role: Postdoctoral Fellow, Massachusetts Institute of Technology
+role: Massachusetts Institute of Technology
 social:
 #- icon: envelope
  #icon_pack: fas
