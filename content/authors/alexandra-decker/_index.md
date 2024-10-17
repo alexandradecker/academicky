@@ -44,7 +44,7 @@ user_groups:
 
 I'm a developmental cognitive neuroscientist. I'm currently a postdoctoral fellow at the Massachusetts Institute of Technology in the Department of Brain and Cognitive Sciences. I completed my PhD in Cognitive Neuroscience at the University of Toronto in 2022. My research uses a combination of behavioral, eye-tracking, and neuroimaging methods, computational modelling and advanced statistics to examine how the brain changes over the course of development and how these changes influence learning in children with and without neurodevelopmental disorders. I'm particularly interested in short- and long-term brain plasticity in response to learning, and environmental adversity or enrichment. When I'm not working, I love drinking matcha, going on runs, reading philosophy and hanging out with loved ones. Reach out if you'd like to chat about ideas or collaborate!
 
-Feel free to check out more of my work by looking through my site, or {{% staticref "files/cv.pdf" %}} downloading my CV{{% /staticref %}}. Check out my <a href = "https://scholar.google.com/citations?hl=en&user=T5Xw7kUAAAAJ&view_op=list_works&sortby=pubdate" >google scholar</a> profile for a list of my publications.
+Feel free to check out more of my work by looking through my site, or {{% staticref "files/cv.pdf" %}} downloading my CV{{% /staticref %}}. Check out my <a href = "https://scholar.google.com/citations?hl=en&user=T5Xw7kUAAAAJ&view_op=list_works&sortby=pubdate" >google scholar</a> profile for a list of my publications. You can email me at adecker@mit.edu.
 
 
 
